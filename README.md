@@ -13,6 +13,6 @@ i like bengaluru because of it's **weather** and people over there are so welcom
        
 ## list of dishes of food 
 
-*chicken 
-*shrimp
-*beverages       
+- chicken 
+- shrimp
+- beverages       
