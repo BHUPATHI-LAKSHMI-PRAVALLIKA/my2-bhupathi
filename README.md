@@ -11,3 +11,8 @@ i like bengaluru because of it's **weather** and people over there are so welcom
 2. Eating food.
 3. Taking pictures.
        
+## list of dishes of food 
+
+chicken 
+shrimp
+beverages       
