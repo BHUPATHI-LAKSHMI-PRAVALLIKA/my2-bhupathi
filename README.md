@@ -34,7 +34,8 @@ This table shows about Sports are very essential for every human life which keep
 
 ### Pithy Quotes
 >You must be the change you wish to see in the world- _A.P.J Abdul Kalam_
->No great discovery was ever made without a bold guess- _Issac Newton_
+
+>>No great discovery was ever made without a bold guess- _Issac Newton_
 
 
 
