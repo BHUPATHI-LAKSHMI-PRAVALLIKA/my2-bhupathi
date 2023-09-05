@@ -57,7 +57,7 @@ setInterval(function() {
 
 ```
 
-[jQuery Autobox playing](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
+jQuery Autobox playing <https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/>
 
 
 
