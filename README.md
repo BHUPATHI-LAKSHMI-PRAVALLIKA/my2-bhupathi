@@ -35,7 +35,30 @@ This table shows about Sports are very essential for every human life which keep
 ### Pithy Quotes
 >You must be the change you wish to see in the world- _A.P.J Abdul Kalam_
 
->>No great discovery was ever made without a bold guess- _Issac Newton_
+>No great discovery was ever made without a bold guess- _Issac Newton_
+
+---
+
+### Code Fencing
+
+>[jQuery Stack overflow](https://stackoverflow.com/questions/46720599/jquery-slider-adding-autoplay-option)
+
+```
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+  .fadeOut(1000)
+  .next()
+  .fadeIn(1000)
+  .end()
+  .appendTo('#slideshow');
+}, 3000);
+
+```
+
+[jQuery Autobox playing](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
+
 
 
 
