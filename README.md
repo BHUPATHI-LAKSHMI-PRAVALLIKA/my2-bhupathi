@@ -17,7 +17,7 @@ i like bengaluru because of it's **weather** and people over there are so welcom
 - shrimp
 - beverages    
 
-**[link to MyStats][MyStats.md]**
+**[link to MyStats](MyStats.md)**
 
 
 
