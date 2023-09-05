@@ -19,6 +19,19 @@ i like bengaluru because of it's **weather** and people over there are so welcom
 
 **[link to MyStats](MyStats.md)**
 
+---
+
+### Sports
+This table shows about Sports are very essential for every human life which keeps them fit and fine and physical strength. It has great importance in each stage of life. It also improves the personality of people. Sports keep our all organs alert and our hearts become stronger by regularly playing some kind of sports.
+| name of sport | recommended | Hours in week |
+| --- | --- | ---: |
+| Cricket | To be fit | 5 |
+| Football | To be focussed  | 2 |
+| Baseball | to stay healthy| 2 |
+| Hockey | to be active | 1 |
+
+
+
 
 
 
