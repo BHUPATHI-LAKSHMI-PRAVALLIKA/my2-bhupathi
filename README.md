@@ -22,4 +22,3 @@ i like bengaluru because of it's **weather** and people over there are so welcom
 
 
 
-[MyStats.md]: MyStats.md
